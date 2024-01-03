@@ -1,5 +1,5 @@
 import Container from 'components/Container/Container';
-import { StyledTransactionHistory } from 'components/TransactionHistory.styled';
+import { StyledTransactionHistory } from 'components/TransactionHistory/TransactionHistory.styled';
 import TransactionHistoryItem from 'components/TransactionHistoryItem/TransactionHistoryItem';
 
 const TransactionHistory = ({ items }) => {
